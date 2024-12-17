@@ -1,2 +1,2 @@
-// Create Web Server
+// Create web server
 var http = require('http');
